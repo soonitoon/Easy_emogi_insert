@@ -1,5 +1,5 @@
 # Easy_emogi_insert
-This program help you to insert emoji easy way.
+This program helps you to insert emoji easy way.
 
 ## key
 - F1 : ❤
